@@ -1,0 +1,6 @@
+.idea/
+.allure/
+target/
+src/main/
+*.iml
+*.iws
